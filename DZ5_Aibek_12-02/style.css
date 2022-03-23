@@ -1,0 +1,45 @@
+.trafficLight {
+    margin: 0 auto;
+}
+
+.red {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background: #aba8a8;
+}
+
+.yellow {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background: #aba8a8;
+}
+
+.green {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background: #aba8a8;
+}
+
+.stop {
+    padding-left: 25px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.wait {
+    padding-left: 25px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
+
+.go {
+    padding-left: 35px;
+    padding-top: 20px;
+    text-transform: uppercase;
+}
